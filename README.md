@@ -1,7 +1,3 @@
-Certainly! Below is a template for a README file tailored to your repository for the cryptocurrency data extraction, preprocessing, and transformer model training:
-
----
-
 # Cryptocurrency Data Extraction and Transformer Model Training
 
 This repository contains code for extracting data of several cryptocurrencies from websites using web scraping and APIs, preprocessing the data, and training a transformer model using PyTorch.
